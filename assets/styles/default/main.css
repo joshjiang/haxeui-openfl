@@ -1,6 +1,11 @@
 .label, .textfield, .textarea {
+<<<<<<< HEAD
     font-name: "fonts/Roboto-Regular.ttf";
     __font-name: "_sans";
+=======
+    ___font-name: "fonts/Roboto-Regular.ttf";
+    font-name: "_sans";
+>>>>>>> parent of 50af547... textdisplay visual improvments
     font-size: 13px;
 }
 

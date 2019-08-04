@@ -1,6 +1,6 @@
 .label {
     font-size: 13px;
-    __font-name: "_sans";
+    font-name: "_sans";
 }
 
 .checkbox, .optionbox {
